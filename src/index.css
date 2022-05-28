@@ -1,0 +1,14 @@
+.app {
+  display: block;
+}
+
+.game {
+  width: 560px;
+  height: 560px;
+  padding-left: 30%;
+}
+
+.game img {
+  width: 70px;
+  height: 70px;
+}
